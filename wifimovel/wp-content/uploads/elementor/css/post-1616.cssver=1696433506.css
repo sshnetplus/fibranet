@@ -1,0 +1,73 @@
+.elementor-1616 .elementor-element.elementor-element-1197524:not(.elementor-motion-effects-element-type-background), .elementor-1616 .elementor-element.elementor-element-1197524 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #D70C0C;
+}
+
+.elementor-1616 .elementor-element.elementor-element-1197524 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1616 .elementor-element.elementor-element-1197524 > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1616 .elementor-element.elementor-element-e7e2848 {
+    --spacer-size: 10px;
+}
+
+.elementor-1616 .elementor-element.elementor-element-580e5a0 {
+    text-align: center;
+}
+
+.elementor-1616 .elementor-element.elementor-element-580e5a0 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Days One", Sans-serif;
+    font-weight: 800;
+}
+
+.elementor-1616 .elementor-element.elementor-element-405294b .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+}
+
+#elementor-popup-modal-1616 .dialog-message {
+    width: 640px;
+    height: auto;
+}
+
+#elementor-popup-modal-1616 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0,0,0,.8);
+}
+
+#elementor-popup-modal-1616 .dialog-close-button {
+    display: flex;
+}
+
+#elementor-popup-modal-1616 .dialog-widget-content {
+    box-shadow: 2px 8px 23px 3px rgba(0,0,0,0.2);
+}
+
+@media(max-width: 767px) {
+    .elementor-1616 .elementor-element.elementor-element-1197524 > .elementor-container {
+        max-width:350px;
+    }
+
+    .elementor-1616 .elementor-element.elementor-element-1197524, .elementor-1616 .elementor-element.elementor-element-1197524 > .elementor-background-overlay {
+        border-radius: 10px 10px 10px 10px;
+    }
+
+    .elementor-1616 .elementor-element.elementor-element-580e5a0 .elementor-heading-title {
+        font-size: 20px;
+    }
+
+    .elementor-1616 .elementor-element.elementor-element-405294b {
+        text-align: center;
+    }
+
+    .elementor-1616 .elementor-element.elementor-element-405294b .elementor-heading-title {
+        font-size: 17px;
+    }
+}
